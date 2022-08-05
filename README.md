@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @atakanoguzlar
+# Hi, I’m Atakan 👋
 
+- 👨🏻‍💻 I am a computer engineering student.
+- 🌱 I’m currently learning React Native.
 
 <!---
 
@@ -9,3 +11,8 @@
 - 📫 How to reach me ...
 
 --->
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atakanoguzlar&repo=Tic-Tac-Toe Game"/>
+
