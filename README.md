@@ -14,5 +14,3 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atakanoguzlar&repo=TicTacToe_Game"/>
-
