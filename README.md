@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img style="width:30px; height:auto; -webkit-user-select:none; display:block; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="https://raw.githubusercontent.com/Potapy4/Potapy4/master/wave.gif"> Hi, I’m Atakan
+<img style="width:32px; height:auto; -webkit-user-select:none; display:block; margin:auto; padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);" src="https://raw.githubusercontent.com/Potapy4/Potapy4/master/wave.gif"> Hi, I’m Atakan
   
 </h1>
 
