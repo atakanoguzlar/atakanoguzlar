@@ -4,7 +4,7 @@
   
   <img style="width:70px; height:auto;" src="https://i.giphy.com/media/MZum7m00qC1VIFPbgP/giphy.webp">
   <img style="width:70px; height:auto;" src="https://i.giphy.com/media/iC9j5M86lEd3a41HAB/giphy.webp">
-  <img style="width:70px; height:auto;" src="https://i.giphy.com/media/MZum7m00qC1VIFPbgP/giphy.webp">
+  <img style="width:70px; height:auto;" src="https://i.giphy.com/media/dxan10yjH6jmXKM4DI/giphy.webp">
   <img style="width:70px; height:auto;" src="https://i.giphy.com/media/3mzURDAt4pSTn6yAvN/giphy.webp">
   <img style="width:70px; height:auto;" src="https://i.giphy.com/media/MZum7m00qC1VIFPbgP/giphy.webp">
   <img style="width:70px; height:auto;" src="https://i.giphy.com/media/iKN4VJk9e7tt9zRH1b/giphy.webp">
