@@ -23,14 +23,10 @@
   
 <p align="center">
 
-  <img style="width:80px; height:auto;" src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270">
+  <img style="width:70px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png">
   
   <img style="width:80px; height:auto;" src="https://i.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.webp">
-
-  <img style="width:80px; height:auto;" src="https://raw.githubusercontent.com/otomer/otomer/master/assets/js.webp">
   
-  <img style="width:80px; height:auto;" src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/python.gif">
-
 </p>
 
   
